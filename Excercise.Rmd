@@ -1,0 +1,12 @@
+---
+title: "This is an excercise"
+author: "Elena"
+date: "2024-03-13"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+This is the file I am adding.
